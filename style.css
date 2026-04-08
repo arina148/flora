@@ -22,7 +22,7 @@ header , footer {
 	color: white;
 }
 header {
-	background-image: url(img/center.jpg);
+	background-image: url(center.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -77,21 +77,21 @@ main {
 	grid-area: 13/7/15/13;
 }
 .main__img_right {
-	background-image: url(img/left.jpg);
+	background-image: url(left.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
 	grid-area: 9/5/13/13;
 }
 .main__img_left {
-	background-image: url(img/right.jpg);
+	background-image: url(right.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
 	grid-area: 1/1/4/8;
 }
 .main__img_rosl {
-	background-image: url(img/square.jpg);
+	background-image: url(square.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
