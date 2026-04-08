@@ -98,21 +98,21 @@ main {
 	grid-area: 1/8/5/13;
 }
 .main__img_rosl_2 {
-	background-image: url(img/square2.jpg);
+	background-image: url(square2.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
 	grid-area: 12/1/15/7;
 }
 .main__img_flora {
-	background-image: url(img/row-reserv.jpg);
+	background-image: url(row-reserv.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
 	grid-area: 4/1/9/8;
 }
 .main__img_flora_2 {
-	background-image: url(img/row.jpg);
+	background-image: url(row.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -121,7 +121,7 @@ main {
 footer {
 	width: 100vw;
 	height: 100vh;
-	background-image: url(img/dark_step.jpg);
+	background-image: url(dark_step.jpg);
 	background-position: center;
 }
 @media screen and (min-width: 360px){
