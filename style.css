@@ -124,8 +124,13 @@ footer {
 	background-image: url(dark_step.jpg);
 	background-position: center;
 }
-@media screen and (max-width: 360px){
-	h1{
+@media screen and (max-width: 360px) {
+	h1 {
 		font-size: 16px;
+	}
 }
+@media screen and (max-width: 600px) {
+	h1 {
+		font-size: 20px;
+	}
 }
